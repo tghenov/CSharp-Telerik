@@ -57,7 +57,7 @@ class GameFallRocks
         int livesCount = 5;
         int rockWidth;
         char randomRockSymbol;
-        //The size of the console
+        //The size of the console/high and width
         Console.BufferHeight = Console.WindowHeight = 30;
         Console.BufferWidth = Console.WindowWidth = 80;
         Object dwarf = new Object();
